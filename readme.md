@@ -1,0 +1,1 @@
+This project will be a recipe site, and my first official project. This project will demonstrate my skills with the basics of HTML, including using basic text, making lists, and inserting images and links.
